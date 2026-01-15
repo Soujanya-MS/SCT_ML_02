@@ -1,22 +1,45 @@
-Customer Segmentation – Task 02
+## 🛒 Customer Segmentation | Task 02
 
-This project groups customers based on their shopping behavior using clustering techniques. It’s part of my SkillCraft ML Internship. The notebook explores the dataset, performs preprocessing and applies KMeans to create customer segments.
+This project focuses on grouping customers based on their shopping behavior using clustering techniques. It was completed as part of my **SkillCraft ML Internship** and covers the end-to-end process of customer segmentation.
 
-Tools
+The notebook applies **KMeans clustering** to identify distinct customer groups and visualize patterns that can support data-driven marketing decisions.
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+---
 
-What’s included
+## 🔧 Tools & Technologies
 
-Data loading and cleaning
-Feature selection
-KMeans clustering
-Visualizing customer groups
-Interpreting segments
-Next steps
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
 
-Add age and spending features, try hierarchical clustering, test 3D clustering and apply scaling for better cluster separation.
+---
 
-Files
+## 📌 What’s Included
 
-Task2_Customer_Segmentation.ipynb README.md
+* Data loading and cleaning
+* Feature selection and preparation
+* Applying KMeans clustering
+* Visualizing customer segments
+* Interpreting cluster characteristics
+
+---
+
+## 🚀 Next Steps
+
+* Add age and spending-related features
+* Experiment with hierarchical clustering
+* Try 3D clustering for deeper insights
+* Apply feature scaling for improved cluster separation
+
+---
+
+## 📂 Files
+
+* `Task2_Customer_Segmentation.ipynb`
+* `README.md`
+
+---
+
